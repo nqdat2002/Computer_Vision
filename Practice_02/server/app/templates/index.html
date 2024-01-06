@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            box-sizing: inherit;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            font-size: 62.5%;
+            line-height: 1.6rem;
+            font-family: sans-serif;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0 auto;
+            padding: auto;
+            max-width: 1440px;
+        }
+
+
+        .wrapper {
+            width: 1440px;
+            margin-top: 107px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-width: 100vh;
+        }
+
+        .wrapper form {
+            margin-top: 20px;
+        }
+
+        .wrapper form h1{
+            font-size: 40px;
+            color: green;
+            padding-bottom: 50px
+        }
+
+        .wrapper form label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .wrapper form input,
+        .wrapper form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+
+        .wrapper form textarea {
+            resize: vertical;
+        }
+
+        .wrapper form button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 12px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+    <title>Image Label</title>
+</head>
+<body>
+<div class="wrapper">
+    <form method="POST" enctype="multipart/form-data" action="{{ url_for('upload') }}">
+        <h1>Image Label</h1>
+        <label for="image">Select Image:</label>
+        <input type="file" name="image" accept="image/*" required>
+        <br>
+        <label for="captions">Captions:</label>
+        <input type="text" name="captions" required>
+        <br>
+        <label for="createdby">Created By:</label>
+        <input type="text" name="createdby" required>
+        <br>
+        <label for="description">Notes:</label>
+        <textarea name="notes" rows="2" required></textarea>
+        <br>
+        <button type="submit">Save</button>
+    </form>
+</div>
+</body>
+</html>

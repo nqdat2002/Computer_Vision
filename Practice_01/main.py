@@ -12,7 +12,7 @@ import cv2 as cv
 #         if keycode == 27:
 #             break
 #         if keycode == 32:
-#             cv2.imwrite('data/mypic01.jpg')
+#             cv2.imwrite('dataset/mypic01.jpg')
 # cv2.destroyWindow('My window')
 # cameraCapture.release()
 
