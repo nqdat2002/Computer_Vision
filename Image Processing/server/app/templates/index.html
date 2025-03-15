@@ -7,17 +7,27 @@
     <title>Yoga Pose Prediction</title>
 </head>
 <body>
-    <div class="wrapper">
-        <form action="/predict" method="post" enctype="multipart/form-data">
-            <h1>Yoga Pose Prediction</h1>
-            <input type="file" name="image" accept="images/*" required>
-            <button type="submit">Predict</button>
-        </form>
 
-<!--        {% if image_filename %}-->
-<!--            <h2>Uploaded Image</h2>-->
-<!--            <img src="{{ url_for('static', filename=image_filename) }}" alt="Uploaded Image" width="300">-->
-<!--        {% endif %}-->
+    <div class="container">
+        <div class="left-side">
+            <img src="../static/images/yoga1.jpg" alt="logo">
+
+        </div>
+
+        <div class="wrapper">
+            <form action="/predict" method="post" enctype="multipart/form-data">
+                <h1>Yoga Pose Prediction</h1>
+                <input type="file" name="image" accept="images/*" required>
+                <button type="submit">Predict</button>
+            </form>
+
+            <h2>
+                The App Predict 5 species: 'downdog', 'goddess', 'plank', 'tree', 'warrior2'
+            </h2>
+            <a href="/history">View Prediction History</a>
+        </div>
+
     </div>
+
 </body>
 </html>

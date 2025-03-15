@@ -1,0 +1,113 @@
+Microsoft Windows [Version 10.0.19045.3570]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Python\Computer_Vision\Practice_02\image\sleeping>labelimg
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00001.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00001.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00002.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00002.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00003.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00003.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00004.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00004.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00005.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00005.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00006.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00006.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00007.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00007.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00008.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00008.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00009.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00009.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00010.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00010.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00011.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00011.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00012.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00012.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00013.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00013.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00014.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00014.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00015.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00015.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00016.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00016.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00017.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00017.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00018.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00018.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00019.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00019.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00020.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00020.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00021.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00021.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00022.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00022.txt
+[('sleeping', [(10, 78), (524, 78), (524, 437), (10, 437)], None, None, False)]
+[('sleeping_boy', [(9, 165), (1542, 165), (1542, 740), (9, 740)], None, None, False)]
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00023.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00023.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00024.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00024.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00025.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00025.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00026.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00026.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00027.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00027.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00028.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00028.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00029.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00029.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00030.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00030.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00031.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00031.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00032.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00032.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00033.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00033.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00034.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00034.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00035.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00035.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00036.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00036.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00037.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00037.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00038.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00038.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00039.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00039.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00040.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00040.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00041.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00041.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00042.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00042.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00043.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00043.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00044.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00044.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00045.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00045.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00046.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00046.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00047.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00047.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00048.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00048.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00049.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00049.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00050.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00050.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00051.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00051.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00052.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00052.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00053.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00053.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00054.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00054.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00055.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00055.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00056.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00056.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00057.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00057.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00058.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00058.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00059.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00059.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00060.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00060.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00061.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00061.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00062.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00062.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00063.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00063.txt
+Cancel creation.
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00064.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00064.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00065.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00065.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00066.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00066.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00067.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00067.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00068.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00068.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00069.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00069.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00070.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00070.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00071.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00071.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00072.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00072.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00073.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00073.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00074.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00074.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00075.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00075.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00076.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00076.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00077.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00077.txt
+Cancel creation.
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00078.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00078.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00079.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00079.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00080.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00080.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00081.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00081.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00082.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00082.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00083.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00083.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00084.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00084.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00085.png -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00085.txt
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00086.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00086.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00087.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00087.txt
+Cancel creation.
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00088.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00088.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00089.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00089.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00090.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00090.txt
+Image:D:\Python\Computer_Vision\Practice_02\EX03\sleeping\sleeping00091.jpg -> Annotation:D:/Python/Computer_Vision/Practice_02/EX03/sleeping\sleeping00091.txt
+[('sleeping', [(97, 66), (849, 66), (849, 582), (97, 582)], None, None, False)]
+[('sleeping', [(31, 13), (745, 13), (745, 418), (31, 418)], None, None, False)]
+
+D:\Python\Computer_Vision\Practice_02\image\sleeping>
